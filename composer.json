@@ -11,6 +11,11 @@
         {
             "name": "Micheal Mand - KMDWebDesigns",
             "email": "micheal@kmdwebdesigns.com"
+        },
+        {
+            "name": "Mehmet Mert Yildiran",
+            "email": "mehmetmertyildiran@gmail.com",
+            "role": "Maintainer"
         }
     ],
     "license": [
